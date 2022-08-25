@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/nextchatapi.iml" filepath="$PROJECT_DIR$/.idea/nextchatapi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../nextchatapp/.idea/nextchatapp.iml" filepath="$PROJECT_DIR$/../nextchatapp/.idea/nextchatapp.iml" />
     </modules>
   </component>
 </project>
