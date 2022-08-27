@@ -2,26 +2,43 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="51c96b60-a63a-426c-b1ad-0222144c207c" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/nextchatapi.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/nextchatapi.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Models/RoomModel.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/controllers/ChatControllers/joinRoom.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../nextchatapp/ReduxStore/ActiveMessagesReducer.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Models/UserModel.js" beforeDir="false" afterPath="$PROJECT_DIR$/Models/UserModel.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server.js" beforeDir="false" afterPath="$PROJECT_DIR$/server.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nextchatapp/ReduxStore/ActiveChatReducer.js" beforeDir="false" afterPath="$PROJECT_DIR$/../nextchatapp/ReduxStore/ActiveChatReducer.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nextchatapp/ReduxStore/Store.js" beforeDir="false" afterPath="$PROJECT_DIR$/../nextchatapp/ReduxStore/Store.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nextchatapp/ReduxStore/UserConstants.js" beforeDir="false" afterPath="$PROJECT_DIR$/../nextchatapp/ReduxStore/UserConstants.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../nextchatapp/components/ChatBox.js" beforeDir="false" afterPath="$PROJECT_DIR$/../nextchatapp/components/ChatBox.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../nextchatapp/components/ChatScreen.js" beforeDir="false" afterPath="$PROJECT_DIR$/../nextchatapp/components/ChatScreen.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../nextchatapp/components/Header.js" beforeDir="false" afterPath="$PROJECT_DIR$/../nextchatapp/components/Header.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nextchatapp/components/Message.js" beforeDir="false" afterPath="$PROJECT_DIR$/../nextchatapp/components/Message.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../nextchatapp/components/SideBar.js" beforeDir="false" afterPath="$PROJECT_DIR$/../nextchatapp/components/SideBar.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nextchatapp/components/UserCard.js" beforeDir="false" afterPath="$PROJECT_DIR$/../nextchatapp/components/UserCard.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../nextchatapp" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2DRlxgH4NWSJo5X2INkVAqKnB2K" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -45,7 +62,10 @@
       <option name="presentableId" value="Default" />
       <updated>1660670025396</updated>
       <workItem from="1660670026956" duration="3639000" />
-      <workItem from="1661409729750" duration="398000" />
+      <workItem from="1661409729750" duration="4851000" />
+      <workItem from="1661442241460" duration="391000" />
+      <workItem from="1661450461621" duration="3159000" />
+      <workItem from="1661579107050" duration="7493000" />
     </task>
     <servers />
   </component>

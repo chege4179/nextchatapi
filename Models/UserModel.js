@@ -16,6 +16,11 @@ const UserModel =  new mongoose.Schema({
 	chats:{
 		type:Array,
 		default:[]
+	},
+	isOnline:{
+		type:Boolean,
+		default:false,
+
 	}
 })
 module.exports = mongoose.model("user",UserModel)
